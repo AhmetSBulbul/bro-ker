@@ -1,6 +1,8 @@
 # bro-ker
 Personal Cryptocurrency exchange app with detailed portfolio and trade history tracking feature. Powered by binance api.
 
+Platform: Android
+
 ## TO-DO
 - Binance api end points
 - Better alarm system
